@@ -1,2 +1,2 @@
-# ReactJS_Movie
- ReactJS로 영화 웹 서비스 만들기
+# ReactJS_Study
+ ReactJS 기본 기능 공부
