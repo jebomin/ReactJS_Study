@@ -1,2 +1,2 @@
 # ReactJS_Study
- ReactJS 기본 기능 공부
+ ReactJS 기초 공부
